@@ -1,0 +1,8 @@
+K means:
+Run time of K means  comes out to be O(n*k) where n is the number of points and k is the number of clusters (we have assumed the number of attributes and number of iterations to be constant).
+
+KNN:
+Run time of KNN is given by O(n^2) where n is the number of points.
+
+Naive Bayes:
+Run time of Naive Bayes is given by O(n) where n is the number of tuples in the training data (data_naivebayes.txt)

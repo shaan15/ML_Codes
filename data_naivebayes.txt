@@ -1,0 +1,10 @@
+sunny working go
+rainy broken go
+sunny working go
+sunny working go
+sunny working go
+rainy broken stay
+rainy broken stay
+sunny working stay
+sunny broken stay
+rainy broken stay
